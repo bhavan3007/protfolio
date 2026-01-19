@@ -41,7 +41,7 @@ const About = () => {
       {/* 👇 Add your image here */}
       <motion.img
       src="/bhavanphoto.jpg"
-      alt="Bhavan"
+      alt="Bhavan image"
       variants={fadeIn("", "", 0.1, 1)}
       className="w-40 h-40 rounded-full object-cover mt-5 ml-20"
       />
